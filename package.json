@@ -1,0 +1,18 @@
+{
+  "name": "erummy",
+  "version": "0.0.1",
+  "description": "Decentralised Rummy Game built on Polygon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "express": "^4.17.1",
+    "fhevmjs": "^0.2.2",
+    "nodemon": "^3.0.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.3.0"
+  }
+}
